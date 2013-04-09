@@ -1,3 +1,2 @@
 ciao
 pippo
-Ciao
